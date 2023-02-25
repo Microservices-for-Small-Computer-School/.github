@@ -2,22 +2,7 @@
 
 This is a series of video course on the `Architect, Design, Develop, Deploy, and Maintain Microservices`. The series is divided into **`Multiple seasons`**.
 
-In this series we will learn 1. Minimal API, 2. API with Controller, 3. API Gateway, 4. Azure Services, 5. Docker / Docker-Compose, 6. ARM/Biceps, 7. IaC, 8. Terraform, 9. GitHub Actions, 10. Deploy to Azure Kubernetes Service
-
-**Highlights of the series are:**
-
-> 1. Multiple Microservices
-> 1. Polyglot Data Store
-> 1. Client & Admin Applications
-> 1. API Gateway
-> 1. Azure Services
-> 1. Docker
-> 1. Docker-Compose
-> 1. ARM/Biceps
-> 1. IaC
-> 1. Terraform
-> 1. GitHub Actions
-> 1. Deploy to Azure Kubernetes Service
+In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API with Controller, 4. Polyglot Data Store (MS SQL Server, Mongo Db, Cosmos Db), 5. Server side Apps (Blazor Server), 6. Single Page Apps (Angular 15 / React 18 / Blazor WASM), 7. Docker, 8. Docker Compose, 9. ARM/Biceps, 10. Terraform, 11. IaC, 12. DevOps (Azure / GitHub), 13. Azure Services, 14. API Gateways, 15. Deploy to Azure Kubernetes Services, 16. Rabbit MQ, 17, Polly, 18 Open Telemetry etc.
 
 ---
 ## Course 1 - March 2023
