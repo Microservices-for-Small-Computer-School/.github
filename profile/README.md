@@ -6,35 +6,23 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 
 ## Course 1 - March 2023 - Minimal API in .NET 7 with In-Memory Database, EF Core
-> 1. Day 1 - Hands-on Minimal API with Static data in .NET 7
-> 1. Day 2 - Hands-on to Minimal API with Dynamic data in .NET 7
-> 1. Day 3 - .NET 7 Minimal API DI, IOC, record, DTOs, AutoMapper, and Extension Methods
-> 1. Day 4 - .NET 7 Minimal API Swagger, Repository, Business Layer, and GitHub Actions
-> 1. Day 5 - .NET 7 Minimal API Serilog, CORS, Angular 15, and Azure App Service
-
 ## Course 2 - Apr 2023 - EF Core with Polyglot database Crash Course
-> 1. To be done
-
 ## Course 3 - May 2023 - Minimal API in .NET 7 with Azure SQL Database, .SQLProj, EF Core, CRUD Operations
-> 1. To be done
-
 ## Course 4 - Jun 2023 - Just enough Docker, Dockerize Data stores, Minimal API, and Intergration with Angular 15 UI
-> 1. To be done
-
 ## Course 5 - Jul 2023 - Blazor Server / WASM in .NET 7 for Course Admin Application, its Dockerization
-> 1. To be done
-
 ## Course 6 - Aug 2023 - Angular 15 Crash Course, creating Client SPA, Dockerization of SPA
-> 1. To be done
-
 ## Course 7 - Sep 2023 - Docker-Compose to execute Data Stores, Minimal API, Admin, and Client App
-> 1. To be done
-
 ## Course 8 - Oct 2023 - Web API in .NET 8 with Mongo Db Database
-> 1. To be done
-
 ## Course 9 - Nov 2023 - Cache-Aside Pattern with Redis, Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
-> 1. To be done
+## Course 10 - Dec 2023 - Creating our own Identity System for Single Sign On
+## Course 11 - Jan 2024 - Implementing Security in Micro Services
+## Course 12 - Feb 2024 - Implementing API Gateways (Ocelot / Envoy / something latest )
+## Course 13 - Mar 2024 - Asynchronous communication between microservices using RabbitMQ, Mass Transit
+## Course 14 - Apr 2024 - Creating Resource using ARM / Biceps / Terraform
+## Course 15 - May 2024 - IaC, and DevOps deep dive
+## Course 16 - Jun 2024 - Observability / Alerts / Monitoring / Distrbuted Tracing / Logging
+## Course 17 - Jul 2024 - Deploying End-to-End solution in Azure Kubernetes Service Azure
+## Course 18 - Aug 2024 - Deploying End-to-End solution in Elastic Kubernetes Service in AWS
 
 <!--
 
