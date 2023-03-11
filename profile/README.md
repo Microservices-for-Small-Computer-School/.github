@@ -5,8 +5,8 @@ This is a series of video course on the `Architect, Design, Develop, Deploy, and
 In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API with Controller, 4. Polyglot Data Store (MS SQL Server, Mongo Db, Cosmos Db), 5. Server side Apps (Blazor Server), 6. Single Page Apps (Angular 15 / React 18 / Blazor WASM), 7. Docker, 8. Docker Compose, 9. ARM/Biceps, 10. Terraform, 11. IaC, 12. DevOps (Azure / GitHub), 13. Azure Services, 14. API Gateways, 15. Deploy to Azure Kubernetes Services, 16. Rabbit MQ, 17, Polly, 18 Open Telemetry etc.
 
 
-### Course 1 - March 2023 - Minimal API in .NET 7 with In-Memory Database, EF Core
-### Course 2 - Apr 2023 - EF Core with Polyglot database Crash Course
+### Course 1 - March 2023 - Minimal API in .NET 7 with In-Memory Database, EF Core - **Completed**
+### Course 2 - Apr 2023 - EF Core with Polyglot database Crash Course - **In Progress**
 ### Course 3 - May 2023 - Minimal API in .NET 7 with Azure SQL Database, .SQLProj, EF Core, CRUD Operations
 ### Course 4 - Jun 2023 - Just enough Docker, Dockerize Data stores, Minimal API, and Intergration with Angular 15 UI
 ### Course 5 - Jul 2023 - Blazor Server / WASM in .NET 7 for Course Admin Application, its Dockerization
