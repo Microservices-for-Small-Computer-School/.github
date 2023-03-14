@@ -19,7 +19,7 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. .SqlProj | Azure SQL | VS Code | Azure Data Studio | VS 2022
 > 1. Moving Logic into different Libraries, Local Web API with Sql Azure, Deploy,
 > 1. Get By Id, Add Course, Update, and Delete Deploy it to Azure, and test with Postman
-> 1. GitHub Actions to push .SqlProj into Sql Azure, and Minimal Api into App Service
+> 1. Just Enough ARM. Creating Sql Azure Database, and Web App using ARM Templates and PowerShell, Azure CLI
 > 1. Blazor Admin App in Azure -> CRUD Operations | Angular 15 Client app in Azure -> Only Get All Courses
 
 ### Course **3** - May 2023 - Dapper and EF Core with Polyglot database Crash Course
@@ -37,6 +37,7 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. Dockerize Static Html Web Site, and Data Stores
 > 1. Dockerize Minimal API
 > 1. Dockerize Blazor Server Admin App and Angular 15 Client App
+> 1. GitHub Actions to push .SqlProj into Sql Azure, and Minimal Api into App Service
 
 ### Course **5** - Jul 2023 - Blazor Server / WASM in .NET 7 for Course Admin Application, its Dockerization
 
@@ -78,7 +79,7 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 ### Course 18 - Aug 2024 - Deploying End-to-End solution in Elastic Kubernetes Service in AWS
 
-### Others: React JS 18, Azure Services (Service Bus, Redis, Key Valut, etc)
+### Others: React JS 18, gRPC, Azure Services (Service Bus, Redis, Key Valut, etc)
 
 <!--
 
