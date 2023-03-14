@@ -1,6 +1,6 @@
-# Architect, Design, Develop, Deploy, and Maintain Microservices
+# Architect, Design, Develop, Deploy, Monitor and Maintain Microservices
 
-This is a series of video course on the `Architect, Design, Develop, Deploy, and Maintain Microservices`. The series is divided into **`Multiple seasons`**.
+This is a series of video course on the `Architect, Design, Develop, Deploy, Monitor and Maintain Microservices`. The series is divided into **`Multiple seasons`**.
 
 In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API with Controller, 4. Polyglot Data Store (MS SQL Server, Mongo Db, Cosmos Db), 5. Server side Apps (Blazor Server), 6. Single Page Apps (Angular 15 / React 18 / Blazor WASM), 7. Docker, 8. Docker Compose, 9. ARM/Biceps, 10. Terraform, 11. IaC, 12. DevOps (Azure / GitHub), 13. Azure Services, 14. API Gateways, 15. Deploy to Azure Kubernetes Services, 16. Rabbit MQ, 17, Polly, 18 Open Telemetry etc.
 
@@ -8,7 +8,7 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 ### Course **1** - March 2023 - Minimal API in .NET 7 with In-Memory Database, EF Core - **`Completed`**
 
-#### Pre-requisites: Postman, GitHub Organization / Account, Azure Subscription, VS Code, VS 2022
+**Pre-requisites:** Postman, GitHub Organization / Account, Azure Subscription, VS Code, VS 2022
 
 > 1. .NET 7 Minimal API with Static data
 > 1. .NET 7 Minimal API with Dynamic data
@@ -18,14 +18,14 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 ### Course **2** - Apr 2023 - Minimal API in .NET 7 with Azure SQL Database, .SQLProj, EF Core, CRUD Operations - **`In Progress`**
 
-#### Pre-requisites: Azure CLI, PowerShell Core, and Azure Data Studio
+**Pre-requisites:**  Azure CLI, PowerShell Core, and Azure Data Studio
 
 > 1. Creating .SqlProj, adding table, and Prepolulation of data.
 > 1. Creating Azure SQL using Azure Portal. Deploying .SqlProj into Azure SQL using Azure Data Studio / VS Code / VS 2022
 > 1. Connecting to Sql Azure using VS Code | Azure Data Studio | VS 2022
 > 1. Minimal API - Moving Logic into different Libraries. Integration of Local Web API with Sql Azure. Deploy Minimal API to Azure App Service.
 > 1. Update Minimal API to support Get By Id, Add Course, Update, and Delete operations. Deploy Minimal API to Azure App Service, and test with Postman
-> 1. Just Enough ARM. Creating Sql Azure Database, and Web App using ARM Templates and PowerShell, Azure CLI
+> 1. Just Enough ARM. Creating Sql Azure Server, and Database using ARM Templates and PowerShell, Azure CLI
 > 1. Just enough GitHub Actions. GitHub Actions to push .SqlProj into Sql Azure
 > 1. [https://github.com/vishipayyallore/cloudnative-dot-net6-azure/blob/main/.github/workflows/booksdatastore-cicd.yml](https://github.com/vishipayyallore/cloudnative-dot-net6-azure/blob/main/.github/workflows/booksdatastore-cicd.yml)
 > 1. Blazor Admin App in Azure -> CRUD Operations | Angular 15 Client app in Azure -> Only Get All Courses
@@ -37,15 +37,17 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. EF Core with SQLite
 > 1. EF Core with Cosmos Db
 > 1. EF Core with Postgres
+> 1. Just Enough ARM. Web App / App Service Plan using ARM Templates and PowerShell, Azure CLI
+> 1. GitHub Actions to push Minimal Api into App Service
 
-### Course **4** - Jun 2023 - Just enough Docker, Dockerize Data stores, Minimal API, and Intergration with Angular 15 UI
+### Course **4** - Jun 2023 - Just enough Docker, Dockerize Data stores, Minimal API, and Intergration with Angular 15 UI / Blazor Server Admin App
 
 > 1. Docker Fundamentals - Day 1
 > 1. Docker Fundamentals - Day 2
 > 1. Dockerize Static Html Web Site, and Data Stores
 > 1. Dockerize Minimal API
 > 1. Dockerize Blazor Server Admin App and Angular 15 Client App
-> 1. GitHub Actions to push Minimal Api into App Service
+> 1. PowerShell and Shell Scripts to Dockerize Data Stores, Minimal API, and Admin App
 
 ### Course **5** - Jul 2023 - Blazor Server / WASM in .NET 7 for Course Admin Application, its Dockerization
 
@@ -63,11 +65,11 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. Angular 15 Client App with Minimal API and Docker Compose
 > 1. Angular 15 Client App with Minimal API and Docker Compose and GitHub Actions
 
-### Course 7 - Sep 2023 - Docker-Compose to execute Data Stores, Minimal API, Admin, and Client App
+### Course **7** - Sep 2023 - Docker-Compose to execute Data Stores, Minimal API, Admin, and Client App
 
-### Course 8 - Oct 2023 - Web API in .NET 8 with Mongo Db Database
+### Course **8** - Oct 2023 - Web API in .NET 8 with Mongo Db Database
 
-### Course 9 - Nov 2023 - Cache-Aside Pattern with Redis, Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
+### Course **9** - Nov 2023 - Cache-Aside Pattern with Redis, Sync Service to Service Communication, Resiliency Timeouts, Wait-and-retry, Circuit Breaker Pattern
 
 ### Course 10 - Dec 2023 - Creating our own Identity System for Single Sign On
 
