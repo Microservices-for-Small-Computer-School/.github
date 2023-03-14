@@ -8,6 +8,8 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 ### Course **1** - March 2023 - Minimal API in .NET 7 with In-Memory Database, EF Core - **`Completed`**
 
+#### Pre-requisites: Postman, GitHub Organization / Account, Azure Subscription, VS Code, VS 2022
+
 > 1. .NET 7 Minimal API with Static data
 > 1. .NET 7 Minimal API with Dynamic data
 > 1. .NET 7 Minimal API DI, IOC, record, DTOs, AutoMapper, and Extension Methods
@@ -16,19 +18,25 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 ### Course **2** - Apr 2023 - Minimal API in .NET 7 with Azure SQL Database, .SQLProj, EF Core, CRUD Operations - **`In Progress`**
 
-> 1. .SqlProj | Azure SQL | VS Code | Azure Data Studio | VS 2022
-> 1. Moving Logic into different Libraries, Local Web API with Sql Azure, Deploy,
-> 1. Get By Id, Add Course, Update, and Delete Deploy it to Azure, and test with Postman
+#### Pre-requisites: Azure CLI, PowerShell Core, and Azure Data Studio
+
+> 1. Creating .SqlProj, adding table, and Prepolulation of data.
+> 1. Creating Azure SQL using Azure Portal. Deploying .SqlProj into Azure SQL using Azure Data Studio / VS Code / VS 2022
+> 1. Connecting to Sql Azure using VS Code | Azure Data Studio | VS 2022
+> 1. Minimal API - Moving Logic into different Libraries. Integration of Local Web API with Sql Azure. Deploy Minimal API to Azure App Service.
+> 1. Update Minimal API to support Get By Id, Add Course, Update, and Delete operations. Deploy Minimal API to Azure App Service, and test with Postman
 > 1. Just Enough ARM. Creating Sql Azure Database, and Web App using ARM Templates and PowerShell, Azure CLI
+> 1. Just enough GitHub Actions. GitHub Actions to push .SqlProj into Sql Azure
+> 1. [https://github.com/vishipayyallore/cloudnative-dot-net6-azure/blob/main/.github/workflows/booksdatastore-cicd.yml](https://github.com/vishipayyallore/cloudnative-dot-net6-azure/blob/main/.github/workflows/booksdatastore-cicd.yml)
 > 1. Blazor Admin App in Azure -> CRUD Operations | Angular 15 Client app in Azure -> Only Get All Courses
 
-### Course **3** - May 2023 - Dapper and EF Core with Polyglot database Crash Course
+### Course **3** - May 2023 - ADO.NET, Dapper and EF Core with Polyglot database Crash Course
 
+> 1. ADO.NET with SQL Server
 > 1. Dapper with SQL Server
 > 1. EF Core with SQLite
 > 1. EF Core with Cosmos Db
 > 1. EF Core with Postgres
-> 1. EF Core with SQL Server
 
 ### Course **4** - Jun 2023 - Just enough Docker, Dockerize Data stores, Minimal API, and Intergration with Angular 15 UI
 
@@ -37,7 +45,7 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. Dockerize Static Html Web Site, and Data Stores
 > 1. Dockerize Minimal API
 > 1. Dockerize Blazor Server Admin App and Angular 15 Client App
-> 1. GitHub Actions to push .SqlProj into Sql Azure, and Minimal Api into App Service
+> 1. GitHub Actions to push Minimal Api into App Service
 
 ### Course **5** - Jul 2023 - Blazor Server / WASM in .NET 7 for Course Admin Application, its Dockerization
 
