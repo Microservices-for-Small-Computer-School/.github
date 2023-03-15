@@ -20,15 +20,17 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 **Pre-requisites:**  Azure CLI, PowerShell Core, and Azure Data Studio
 
+> 1. Deploying Minimal API to IaaS VM in Azure. Comparing IaaS VM vs Azure App Service
 > 1. Creating .SqlProj, adding table, and Prepolulation of data.
 > 1. Creating Azure SQL using Azure Portal. Deploying .SqlProj into Azure SQL using Azure Data Studio / VS Code / VS 2022
 > 1. Connecting to Sql Azure using VS Code | Azure Data Studio | VS 2022
 > 1. Minimal API - Moving Logic into different Libraries. Integration of Local Web API with Sql Azure. Deploy Minimal API to Azure App Service.
+> 1. Investigating the Connectivity issues to Sql Azure from Azure App Service
+> 1. Update the Postman Collection to test the CRUD Operations locally and in Azure App Service
 > 1. Update Minimal API to support Get By Id, Add Course, Update, and Delete operations. Deploy Minimal API to Azure App Service, and test with Postman
 > 1. Just Enough ARM. Creating Sql Azure Server, and Database using ARM Templates and PowerShell, Azure CLI
 > 1. Just enough GitHub Actions. GitHub Actions to push .SqlProj into Sql Azure
 > 1. [https://github.com/vishipayyallore/cloudnative-dot-net6-azure/blob/main/.github/workflows/booksdatastore-cicd.yml](https://github.com/vishipayyallore/cloudnative-dot-net6-azure/blob/main/.github/workflows/booksdatastore-cicd.yml)
-> 1. Blazor Admin App in Azure -> CRUD Operations | Angular 15 Client app in Azure -> Only Get All Courses
 
 ### Course **3** - May 2023 - ADO.NET, Dapper and EF Core with Polyglot database Crash Course
 
@@ -39,6 +41,7 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. EF Core with Postgres
 > 1. Just Enough ARM. Web App / App Service Plan using ARM Templates and PowerShell, Azure CLI
 > 1. GitHub Actions to push Minimal Api into App Service
+> 1. Blazor Admin App in Azure -> CRUD Operations | Angular 15 Client app in Azure -> Only Get All Courses
 
 ### Course **4** - Jun 2023 - Just enough Docker, Dockerize Data stores, Minimal API, and Intergration with Angular 15 UI / Blazor Server Admin App
 
