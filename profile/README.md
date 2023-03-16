@@ -22,9 +22,10 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 **Pre-requisites:**  Azure CLI, PowerShell Core, GitHub Accounts, and Azure Data Studio
 
-#### Day 1 - Deploying Minimal API to IaaS VM in Azure, Deploying Minimal API to Azure App Service, Comparing IaaS vs PaaS deployments
+#### Day 1 - Deploying Minimal API to IIS inside VM (`IaaS`), and Azure App Service (`Paas`), Comparing IaaS vs PaaS deployments
 
-> 1. Setting up Azure Key Vault, and Azure Disks Server Side Encryption
+> 1. Setting up Azure Key Vault, and Purge Protection Demo
+> 1. Azure Disks Server Side Encryption - SSE with CMK and PME
 > 1. Setting up Azure VM with IIS, .NET 7, and Software Prerequisites
 > 1. Deploying Minimal API to IaaS VM in Azure
 > 1. Deploying Minimal API to Azure App Service
@@ -36,7 +37,7 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. Creating .SqlProj, adding table, and Prepolulation of data
 > 1. Deploying .SqlProj into Local Sql Server using VS 2022
 > 1. Creating Azure SQL using Azure Portal
-> 1. Azure SQL Server and Database Security Features
+> 1. Azure SQL Server and Database Security Features, Elastic Pool, and Azure SQL Server Firewall
 > 1. Deploying .SqlProj into Azure SQL using VS 2022
 > 1. Connecting to Sql Azure using VS Code | Azure Data Studio | VS 2022
 
@@ -47,9 +48,9 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. Integration of Local Web API with Sql Azure.
 > 1. Deploy Minimal API to Azure App Service.
 > 1. Investigating the Connectivity issues to Sql Azure from Azure App Service
-> 1. Update the Postman Collection to test the CRUD Operations locally and in Azure App Service
+> 1. Update the Postman Collection to test the Operations locally and in Azure App Service
 
-#### Day 4 - CRUD Operations in Minimal API, Azure Key Vault, and App Service
+#### Day 4 - CRUD Operations in Minimal API, Azure Key Vault, and App Service Configuration
 
 > 1. Update Minimal API to support Get By Id, Add Course, Update, and Delete operations.
 > 1. Deploy Minimal API to Azure App Service
@@ -61,8 +62,10 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 #### Day 5 - Creating Azure Resource using PowerShell / Azure CLI / ARM Templates, and GitHub Actions
 
-> 1. Creating Azure Resource using PowerShell, Azure CLI, and ARM Templates
-> 1. Just Enough ARM. Creating Sql Azure Server, and Database using ARM Templates and PowerShell, Azure CLI
+> 1. Creating Azure Resource using PowerShell
+> 1. Creating Azure Resource using Azure CLI
+> 1. Creating Azure Resource using ARM Templates
+> 1. Just Enough ARM. Creating Sql Azure Server, and Database using ARM Templates and PowerShell/ Azure CLI
 > 1. Just enough GitHub Actions. GitHub Actions to push .SqlProj into Sql Azure
 
 **Note:**
