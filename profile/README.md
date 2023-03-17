@@ -87,12 +87,21 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 #### Day 3
 
 > 1. EF Core with SQLite
+> 1. Strongly Typed Configuration in .NET 7
+
+#### Day 4
+
 > 1. EF Core with Cosmos Db
+
+#### Day 5
+
 > 1. EF Core with Postgres
+
+#### Stretch Goal
+
 > 1. Just Enough ARM. Web App / App Service Plan using ARM Templates and PowerShell, Azure CLI
 > 1. GitHub Actions to push Minimal Api into App Service
 > 1. Blazor Admin App in Azure -> CRUD Operations | Angular 15 Client app in Azure -> Only Get All Courses
-> 1. Strongly Typed Configuration in .NET 7
 
 ---
 
