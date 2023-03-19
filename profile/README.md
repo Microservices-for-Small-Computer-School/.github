@@ -22,17 +22,17 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 **Pre-requisites:**  Azure CLI, PowerShell Core, GitHub Accounts, and Azure Data Studio
 
-#### Day 1 - Deploying Minimal API to IIS inside VM (`IaaS`), and Azure App Service (`Paas`), Comparing IaaS vs PaaS deployments
+#### Day 1 - Deploying Minimal API to IIS inside VM (`IaaS`), and Azure App Service (`PaaS`), Comparing IaaS vs PaaS deployments
 
 > 1. Setting up Azure Key Vault, and Purge Protection Demo
-> 1. Azure Disks Server Side Encryption - SSE with CMK and PME
+> 1. Azure Disks Server-Side Encryption - SSE with CMK and PME
 > 1. Setting up Azure VM with IIS, .NET 7, and Software Prerequisites
 > 1. Deploying Minimal API to IaaS VM in Azure
 > 1. Deploying Minimal API to Azure App Service
 > 1. Using Postman to test the Minimal API in IaaS VM and Azure App Service
 > 1. Comparing IaaS (deploying in VM) vs PaaS (deploying in Azure App Service)
 
-#### Day 2 - Creating Azure SQL, Azure SQL Server and Database Security Features, Deploying .SqlProj into Azure SQL using VS 2022
+#### Day 2 - Creating Azure SQL, Azure SQL Server and Database Security Features, deploying .SqlProj into Azure SQL using VS 2022
 
 > 1. Creating .SqlProj, adding table, and Prepolulation of data
 > 1. Deploying .SqlProj into Local Sql Server using VS 2022
@@ -48,7 +48,7 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 > 1. Integration of Local Web API with Sql Azure.
 > 1. Deploy Minimal API to Azure App Service.
 > 1. Investigating the Connectivity issues to Sql Azure from Azure App Service
-> 1. Update the Postman Collection to test the Operations locally and in Azure App Service
+> 1. Update the Postman Collection to test the operations locally and in Azure App Service
 
 #### Day 4 - CRUD Operations in Minimal API, Azure Key Vault, and App Service Configuration
 
